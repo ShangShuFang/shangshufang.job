@@ -1,0 +1,9 @@
+{
+  "StoreService": {
+    "host": "localhost",
+    "port": 8081,
+    "path": {
+      "startCourse": "/api/course/start"
+    }
+  }
+}
