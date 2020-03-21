@@ -1,3 +1,5 @@
 let courseJob = require('./jobs/courseJob');
+let abilityAnalysis = require('./jobs/abilityAnalysis');
 
-courseJob.startCourse();
+courseJob.run();
+abilityAnalysis.run();

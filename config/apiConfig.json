@@ -3,7 +3,8 @@
     "host": "localhost",
     "port": 8081,
     "path": {
-      "startCourse": "/api/course/start"
+      "startCourse": "/api/course/start",
+      "abilityAnalysis": "/api/student/ability/analysis"
     }
   }
 }
